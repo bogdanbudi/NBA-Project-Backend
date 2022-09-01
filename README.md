@@ -2,7 +2,7 @@
 
 
 To run the projects please:
-- for backend set up the Scoreboard.API as Startup project and run it
+- for backend set up the Scoreboard.API as Startup project and run it. It will provide access to the following endpoint http://localhost:5116/api/v1/Game
 - for frontend open the terminal and use the command ng serve and open the page http://localhost:4200/
 
 
